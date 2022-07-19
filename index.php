@@ -18,7 +18,7 @@
     <nav>
         <!-- Navbar -->
     </nav>
-    <main>
+    <main>turu
 
         <section class="recentlyadded">
             <p class="title">Recently Added</p>
