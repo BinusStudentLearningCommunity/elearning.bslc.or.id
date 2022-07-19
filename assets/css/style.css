@@ -40,7 +40,7 @@ section{
     width: fit-content;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    background-image: url('/assets/img/minicardbackground.svg');
+    background-image: url('../img/minicardbackground.svg');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;

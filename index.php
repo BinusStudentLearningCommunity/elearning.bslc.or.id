@@ -28,62 +28,62 @@
             <p class="title">Available Degrees</p>
             <div class="cards-container">
                 <div class="cards">
-                    <img src="/assets/img/icons/accounting-white.svg" alt="">
+                    <img src="./assets/img/icons/accounting-white.svg" alt="">
                     <p>Accounting</p>
                     <div class="hue accounting"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/chineseliterature-white.svg" alt="">
+                    <img src="./assets/img/icons/chineseliterature-white.svg" alt="">
                     <p>Chinese Literature</p>
                     <div class="hue chineseliterature"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/computerscience-white.svg" alt="">
+                    <img src="./assets/img/icons/computerscience-white.svg" alt="">
                     <p>Computer Science</p>
                     <div class="hue computerscience"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/entrepreneurship-white.svg" alt="">
+                    <img src="./assets/img/icons/entrepreneurship-white.svg" alt="">
                     <p>Entrepreneurship</p>
                     <div class="hue entrepreneurship"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/foodtechnology-white.svg" alt="">
+                    <img src="./assets/img/icons/foodtechnology-white.svg" alt="">
                     <p>Food Technology</p>
                     <div class="hue foodtechnology"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/informationsystems-white.svg" alt="">
+                    <img src="./assets/img/icons/informationsystems-white.svg" alt="">
                     <p>Information Systems</p>
                     <div class="hue informationsystems"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/industrialengineering-white.svg" alt="">
+                    <img src="./assets/img/icons/industrialengineering-white.svg" alt="">
                     <p>Industrial Engineering</p>
                     <div class="hue industrialengineering"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/ibm-white.svg" alt="">
+                    <img src="./assets/img/icons/ibm-white.svg" alt="">
                     <p>International Business Management</p>
                     <div class="hue ibm"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/management-white.svg" alt="">
+                    <img src="./assets/img/icons/management-white.svg" alt="">
                     <p>Management</p>
                     <div class="hue management"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/psychology-white.svg" alt="">
+                    <img src="./assets/img/icons/psychology-white.svg" alt="">
                     <p>Psychology</p>
                     <div class="hue psychology"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/ISM-white.svg" alt="">
+                    <img src="./assets/img/icons/ISM-white.svg" alt="">
                     <p>Information System & Management</p>
                     <div class="hue ism"></div>
                 </div>
                 <div class="cards">
-                    <img src="/assets/img/icons/ISA-white.svg" alt="">
+                    <img src="./assets/img/icons/ISA-white.svg" alt="">
                     <p>Information System & Accounting</p>
                     <div class="hue isa"></div>
                 </div>
@@ -121,20 +121,20 @@
                 <p class="title">Contact Us</p>
                 <div class="contacts">
                     <div>
-                        <img src="/assets/img/socialmedia/line.svg" alt="">
+                        <img src="./assets/img/socialmedia/line.svg" alt="">
                         <p>@hlh6945o</p>
                     </div>
 
                     <div>
-                        <img src="/assets/img/socialmedia/twitter.svg" alt="">
+                        <img src="./assets/img/socialmedia/twitter.svg" alt="">
                         <p>@BSLC_BINUS</p>
                     </div>
                     <div>
-                        <img src="/assets/img/socialmedia/instagram.svg" alt="">
+                        <img src="./assets/img/socialmedia/instagram.svg" alt="">
                         <p>@bslc_binus</p>
                     </div>
                     <div>
-                        <img src="/assets/img/socialmedia/facebook.svg" alt="">
+                        <img src="./assets/img/socialmedia/facebook.svg" alt="">
                         <p>Binus Student Learning Community</p>
                     </div>
                 </div>
