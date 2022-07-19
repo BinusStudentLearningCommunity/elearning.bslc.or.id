@@ -1,0 +1,27 @@
+.logo p{
+    color: rgba(25, 168, 157, 100%);
+    font-family: 'Rubik', sans-serif;
+}
+
+.bslc p{
+    font-size: 16cm;
+}
+
+.elearning{
+    font-size: 36px;
+    font-style: bold;
+}
+
+ul li{
+    list-style: none;
+    line-height: 20px;
+    padding-left: 5px;
+}
+
+.category{
+    width: 0px;
+    top: 0;
+	float: left;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
